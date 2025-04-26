@@ -1,0 +1,14 @@
+Towards the of the course, for the last couple weeks, we have been working on our final projects as a group.
+Sejal, Ishika, Faiz, Ansh and I have been working on our project for the past 3 weeks. 
+The topic we decided on was how Zomato, the food delivery app, works. In our presentation, we talked about the history of Zomato, how the payment and delivery systems work, etc.
+Some reflections - As Anuradha told us, we did not focus our project on the technological aspects of how Zomato works. We instead focused on the marketing side of how the app works. 
+While we mentioned AI a lot and spoke about it front-end, cousomter based interactions, we did not talk about the back-end usage and effects of AI.
+After this, I looked more into some technology based information about Zomato. 
+Here is what I learned - 
+Zomato uses AI to help their partner restaurants manage inventory by montioring stock and using data to predict ingredients needed. 
+They also use AI to manage food safety by analyzing data from surveillence systems.
+Zomato used HTML5, CSS3, JavaScript to build their app.
+
+Sources - 
+https://www.technologywithvivek.com/2024/09/Top%20technologies%20and%20programming%20languages%20used%20in%20zomato%20app.html
+https://medium.com/@priyanka_pen/zomato-architecture-and-system-design-6095e2b2d7c5
